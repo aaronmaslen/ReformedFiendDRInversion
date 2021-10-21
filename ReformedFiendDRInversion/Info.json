@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ReformedFiendDRInversion",
+  "DisplayName": "Reformed Fiend DR Alignment Inversion",
+  "Version": "0.0.1",
+  "Author": "microsoftenator",
+
+  "ManagerVersion": "0.21.3",
+  "GameVersion": "1.0.8",
+  "Requirements": [],
+
+  "AssemblyName": "ReformedFiendDRInversion.dll",
+  "EntryMethod": "ReformedFiendDRInversion.Main.Load"
+}
